@@ -1,1 +1,1 @@
-This is the read me text for Blocbox
+This is the read me text for B-box
